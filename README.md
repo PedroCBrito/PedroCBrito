@@ -1,6 +1,6 @@
 ### Hi!!! I'm Pedro, so happy to see you here
 
-🌱 I’m currently learning about everything but in principal Java
+🌱 I’m currently learning about everything but in principal Java and Javascript
 
 📫 How to reach me: pedro.ca.brito@hotmail.com
 
